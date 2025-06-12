@@ -13,3 +13,8 @@ Project_name/
             file1_name.py
             file2_name.py
 
+
+file1_name
+import package_name.module1_name.file1_name
+
+from package_name.module1_name.file1_name
