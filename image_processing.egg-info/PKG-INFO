@@ -3,7 +3,7 @@ Name: image_processing
 Version: 0.0.1
 Summary: Processamento de cores nas imagens
 Home-page: https://github.com/gejunior/processando-imagens-em-python.git
-Author: Genilson Junior
+Author: ojuniorsilva19
 Requires-Python: >=3.8
 Description-Content-Type: text/markdown
 Dynamic: author

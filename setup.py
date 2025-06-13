@@ -4,13 +4,13 @@ with open("README.md", "r") as f:
     page_description = f.read()
 
 with open("requeriments.txt") as f:
-    requeriments = [line.strip() for line in f.read().splitlines() if line.strip()]
-    # requeriments = f.read().splitlines()
+    # requeriments = [line.strip() for line in f.read().splitlines() if line.strip()]
+    requeriments = f.read().splitlines()
 
 setup(
     name="image_processing",
     version="0.0.1",
-    author="Genilson Junior",
+    author="ojuniorsilva19",
     description="Processamento de cores nas imagens",
     long_description=page_description,
     long_description_content_type="text/markdown",
